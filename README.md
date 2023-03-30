@@ -1,2 +1,2 @@
 # training
-Des exercices, des kata, des miniprojets, bref, des trucs pour s'entrainer
+Des exercices, des katas, des miniprojets, bref, des trucs pour s'entrainer.
