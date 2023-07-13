@@ -11,10 +11,11 @@ Si tu veux proposer un projet pour un autre langage, n'hésite pas à faire une 
 
 Ce sont des exercices courts et simples qui permettent de se concentrer plutôt sur l'algorithmie ou sur un aspect particulier du langage.
 
-- [Inversion de String](exercices/tri-tableau/readme.md)
-- [Liste chainée](exercices/liste-chainee/readme.md)
-- [Palindrome](exercices/palindrome/readme.md)
-- [Tri de tableau](exercices/InversionString/readme.md)                    
+- [Formes](exercices/formes/readme.md)
+- [Inversion de String](exercices/tri-tableau/readme.md) (en cours d'écriture)
+- [Liste chainée](exercices/liste-chainee/readme.md) (en cours d'écriture)
+- [Palindrome](exercices/palindrome/readme.md) (en cours d'écriture)
+- [Tri de tableau](exercices/InversionString/readme.md) (en cours d'écriture)       
 
 ## Les mini-projets
 
