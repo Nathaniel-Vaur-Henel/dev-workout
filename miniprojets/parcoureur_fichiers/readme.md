@@ -10,7 +10,7 @@
 * <h2> Partie II - à faire quand la <i>partie I</i> est terminée</h2>
 * Rajouter des paramètres OPTIONNELS qui peuvent être écrit dans n'importe quel ordre  :
 * <ul>
-*    <li>afficher les dossier seulement ou afficher les fichiers seulement ou afficher tout le monde (par défaut, n'affiché que le nom nom des fichiers)</li>
+*    <li>afficher les dossiers seulement ou afficher les fichiers seulement ou afficher tout le monde (par défaut, n'affiché que le nom nom des fichiers)</li>
 *    <li>gérer une éventuelle profondeur maximale (par défaut aucune)</li>
 *    <li>ajouter un string avant le nom des DOSSIERS (par défaut rien)</li>
 *    <li>afficher le chemin complet ou le uniquement nom (par défaut uniquement le nom)</li>
