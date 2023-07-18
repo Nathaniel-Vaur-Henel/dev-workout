@@ -32,3 +32,8 @@ Tu pourras aussi te familiariser avec les concepts de base de la création et de
   - Modifie en conséquence la méthode `afficher des animaux` pour qu'elle affiche les grenouilles quand on lui passe en paramètres `Terrestre` ou `Aquatique`.
   - Modifie la méthode `afficher des animaux` pour qu'elle puisse prendre de 0 à N type(s), qui doivent tous être pris en compte lors de l'affiche. Par exemple : Affiche les grenouilles quand on lui passe en paramètres `Terrestre` ou `Aquatique` et affiche les poisons et les grenouilles quand on lui passe `Aquatique`.
 - Supprime les méthodes spécifiques comme `faisAboyerLesChiens()` par une méthode générique qui prend en paramètre la classe d'un `Animal` et appelle la méthode spécifique de l'animal choisi.
+- Ajoute la gestion d'`Enclos` dans ton `Zoo`. Un `enclos` a un nom unique qui lui permet d'être retrouvé. 
+  - Un `Enclos` a un ou plusieurs types et n'accepte que des Animaux de ces types. Par exemple un bassin n'acceptera que les animaux de type `Aquatique` et `Terrestre`. Un animal pourra aller dans un enclos s'il a au moins un type.
+- Crée des `Enclos exclusif` et des `Enclos inclusif` qui héritent tous les deux d'une class `Enclos` : 
+  - Les `Enclos inclusif` peuvent accepter des animaux de n'importe quel types spécifiés, c'est l'`Enclos` initial.
+  - Les `Enclos exclusif` ne peuvent accepter que des animaux des types spécifiés : par exemple, un aquarium de type `Aquatique` ne pourra contenir que des poissons et pas de Grenouille.
