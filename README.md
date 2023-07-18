@@ -21,12 +21,12 @@ Ce sont de courts et simples exercices qui permettent de se concentrer plutôt s
 ## Les mini-projets
 
 Les mini-projets sont des exercices plus complexes, ayant avoir plusieurs fonctionnalités, une gestion de base de données, etc.
-Le but est plutôt de se concentrer sur des aspects plus complexes comme la gestion et les messages d'erreurs, le parcours utilisateur, identifier et gérer et les cas à la marche, etc.
+Le but est plutôt de se concentrer sur des aspects plus complexes comme la gestion et les messages d'erreurs, le parcours utilisateur, identifier et gérer et les cas à la marge, etc.
 
-- [Calculatrice](miniprojets/calculatrice/readme.md) (en cours d'écriture)
+- [Calculatrice](miniprojets/calculatrice/readme.md)
 - [Morpion](miniprojets/morpion/readme.md) (en cours d'écriture)
 - [Parcoureur de Fichiers](miniprojets/parcoureur_fichiers/readme.md) (en cours d'écriture)
-- [Perlimpinpin](miniprojets/perlimpinpin/readme.md) (en cours d'écriture)
+- [Perlimpinpin](miniprojets/perlimpinpin/readme.md)
 - [Trouve le nombre](miniprojets/trouve_le_nombre/readme.md) (en cours d'écriture)
 
 ## Aller plus loin

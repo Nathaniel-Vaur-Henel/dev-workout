@@ -1,21 +1,22 @@
 # Huile de perlimpinpin
 
+> - Héritage & polymorphie
+> - Algorithmie
+> - Maintenabilité et évolutivité du code
+
 Ce miniprojet humoristique permet de travailler la compréhension de l'héritage et du polymorphisme.  
 Il permettra aussi de travailler sur la qualité des tests fonctionnels.  
 Il permettra aussi de travailler la maintenabilité et l'évolutivité du code au travers des différentes parties.
 
-## Mise en situation
+## Énoncé
 
-BM, une entreprise révolutionnaire, développe un moteur à huile de perlimpinpin et en équipe plusieurs poids lourd.  
-L'entreprise conçoit un programme de simulation du comportement des véhicules.
+> BM, une entreprise révolutionnaire, développe un moteur à huile de perlimpinpin et en équipe plusieurs poids lourd.  
+> L'entreprise conçoit un programme de simulation du comportement des véhicules.
 
-### Exercices
-
-Il faut créer le code afin de satisfaire au besoin.  
-Il faut créer des tests qui permettront de valider chaque point du développement.  
-**Tous** les tests devront être pérennes, c'est-à-dire qu'ils devront continuer de passer au fur et à mesure de
-l'avancée du développement des besoins.
-Il faut créer des tests qui permettront de simuler le besoin dans une classe à part.
+- Il faut créer le code afin de satisfaire au besoin.
+- Il faut créer des tests qui permettront de valider chaque point du développement.
+- **Tous** les tests devront être pérennes, c'est-à-dire qu'ils devront continuer de passer au fur et à mesure de l'avancée du développement des besoins.
+- Il faut créer des tests qui permettront de simuler le besoin dans une classe à part.
 
 _/!\ les différentes parties correspondent à l'évolution du projet. Elles doivent être menées dans l'ordre_
 
@@ -74,7 +75,7 @@ Cette formule est la même pour tous les types de véhicules : consommation = vi
 
 ## Troisième partie : nouveau moteur
 
-Satisfait de leurs tests, les ingénieurs ont développé un moteur adapté au véhicule léger.
+Satisfaits de leurs tests, les ingénieurs ont développé un moteur adapté au véhicule léger.
 
 Il faut donc prendre en compte un nouveau type de véhicule, la _voiture_ :
 
@@ -87,4 +88,7 @@ Il faut donc prendre en compte un nouveau type de véhicule, la _voiture_ :
 
 Identique aux besoins précédents.
 
+## Pour aller plus loin
 
+- Crée un server et une base de données qui permettrait de tracer les tests effectués par convois.
+- Ajoute des véhicules aériens et navals, un convoi ne pouvant contenir que des véhicules d'un type. 

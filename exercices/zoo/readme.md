@@ -1,6 +1,6 @@
 # Zoo
 
-> Héritage, Polymorphisme, Test
+> Héritage & Polymorphisme
 
 Cet exercice te permettra de renforcer ta compréhension de l'héritage et du polymorphisme.
 Tu pourras aussi te familiariser avec les concepts de base de la création et de la manipulation de listes d'objets ainsi que la surcharge de méthodes.

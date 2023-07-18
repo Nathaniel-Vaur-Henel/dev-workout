@@ -1,6 +1,8 @@
 # Inversion de String
 
-> Entrée et sortie standards, String, boucles, Test
+> - Entrée et sortie standards
+> - String
+> - Boucles
 
 Cet exercice te permettra de renforcer ta compréhension des String, des entrées et sortie standards et des boucles.
 Il te permettra de créer un algorithme simple avec plusieurs types d'entrée ainsi qu'un debut de gestion d'erreur.
