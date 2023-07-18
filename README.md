@@ -12,15 +12,15 @@ Si tu veux proposer un projet pour un autre langage, n'hésite pas à faire une 
 Ce sont de courts et simples exercices qui permettent de se concentrer plutôt sur l'algorithmie ou sur un aspect particulier du langage.
 
 - [Formes](exercices/formes/readme.md)
-- [Inversion de String](exercices/tri-tableau/readme.md) (en cours d'écriture)
+- [Inversion de String](exercices/tri-tableau/readme.md)
 - [Liste chainée](exercices/liste-chainee/readme.md) (en cours d'écriture)
 - [Palindrome](exercices/palindrome/readme.md) (en cours d'écriture)
 - [Tri de tableau](exercices/InversionString/readme.md) (en cours d'écriture)       
-- [Zoo](exercices/zoo/readme.md) (en cours d'écriture)       
+- [Zoo](exercices/zoo/readme.md)
 
 ## Les mini-projets
 
-Les mini-projets sont des exercices plus complexes, ayant avoir plusieurs fonctionnalités, une gestion de base de données, etc. 
+Les mini-projets sont des exercices plus complexes, ayant avoir plusieurs fonctionnalités, une gestion de base de données, etc.
 Le but est plutôt de se concentrer sur des aspects plus complexes comme la gestion et les messages d'erreurs, le parcours utilisateur, identifier et gérer et les cas à la marche, etc.
 
 - [Calculatrice](miniprojets/calculatrice/readme.md) (en cours d'écriture)
@@ -28,3 +28,16 @@ Le but est plutôt de se concentrer sur des aspects plus complexes comme la gest
 - [Parcoureur de Fichiers](miniprojets/parcoureur_fichiers/readme.md) (en cours d'écriture)
 - [Perlimpinpin](miniprojets/perlimpinpin/readme.md) (en cours d'écriture)
 - [Trouve le nombre](miniprojets/trouve_le_nombre/readme.md) (en cours d'écriture)
+
+## Aller plus loin
+
+Pour les exercices que je te propose, tu peux aller plus loin :
+
+- Ajoute des tests. C'est toujours bien de savoir faire des tests !
+- Si c'est une application en ligne de commande, en fais-en un serveur avec base de données :
+    - ajoute des endpoints.
+    - ajoute une historisation.
+    - ajoute une authentification.
+    - gère la pagination et des filtres divers.
+
+Laisse libre cours à ton imagination ou fais un autre exercice !  

@@ -7,20 +7,20 @@ Tu pourras aussi te familiariser avec les concepts de base de la création et de
 
 ## Étapes
 
-- Créer une classe abstraite `Animal` avec des propriétés telles que le `nom`, l'`âge` et le `sexe`.
-    - Ajouter des méthodes pour `afficher les informations` de l'animal et pour `modifier ses propriétés`.
-    - Ajouter également une méthode abstraite pour les comportements spécifiques de chaque animal, tels que la méthode manger().
-- Créer des classes `Chien`, `Chat`, `Oiseau` et `Poisson` qui héritent de la classe `Animal`.
-    - Ajouter des propriétés spécifiques à chaque animal, telles que le `nombre de pattes pour le chien`, la `race pour le chat`, le `type de vol pour l'oiseau` et la `couleur des écailles pour le poisson`.
-    - Ajouter la méthode spécifique de chaque animal :
+- Crée une classe abstraite `Animal` avec des propriétés telles que le `nom`, l'`âge` et le `sexe`.
+    - Ajoute des méthodes pour `afficher les informations` de l'animal et pour `modifier ses propriétés`.
+    - Ajoute également une méthode abstraite pour les comportements spécifiques de chaque animal, tels que la méthode `manger()`.
+- Crée des classes `Chien`, `Chat`, `Oiseau` et `Poisson` qui héritent de la classe `Animal`.
+    - Ajoute des propriétés spécifiques à chaque animal, telles que le `nombre de pattes pour le chien`, la `race pour le chat`, le `type de vol pour l'oiseau` et la `couleur des écailles pour le poisson`.
+    - Ajoute la méthode spécifique de chaque animal :
         - la méthode `aboyer()` pour le chien,
         - la méthode `ronronner()` pour le chat,
         - la méthode `voler()` pour l'oiseau.
-        - la méthode `nager()` pour l'oiseau.
-- Créer une classe `Zoo` avec une propriété de `liste d'animaux`.
-    - Ajouter des méthodes pour `ajouter`, `supprimer` et `afficher des animaux` dans le zoo.
-    - Utiliser le polymorphisme pour ajouter des objets de type `Chien`, `Chat`, `Oiseau` et `Poisson` dans le zoo.
-- Ajouter une méthode dans la classe `Zoo` qui utilise la méthode spécifique à chaque animal pour afficher un comportement particulier. Par exemple, la méthode `faisAboyerLesChiens()` qui appelle la méthode `aboyer()` pour chaque objet `Chien` dans le zoo.
+        - la méthode `nager()` pour le poisson.
+- Crée une classe `Zoo` avec une propriété de `liste d'animaux`.
+    - Ajoute des méthodes pour `ajouter`, `supprimer` et `afficher des animaux` dans le zoo.
+    - Utilise le polymorphisme pour ajouter des objets de type `Chien`, `Chat`, `Oiseau` et `Poisson` dans le zoo.
+- Ajoute une méthode dans la classe `Zoo` qui utilise la méthode spécifique à chaque animal pour afficher un comportement particulier. Par exemple, la méthode `faisAboyerLesChiens()` qui appelle la méthode `aboyer()` pour chaque objet `Chien` dans le zoo.
   - Fais-le pour tous les animaux.
 
 ## Pour aller plus loin

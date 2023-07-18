@@ -5,14 +5,6 @@
 Cet exercice te permettra de renforcer ta compréhension de l'héritage et du polymorphisme.
 Tu pourras aussi te familiariser avec les concepts de base de la création et de la manipulation de listes d'objets.
 
-## Instructions
-
-- Toutes les méthodes doivent renvoyer une donnée afin de pouvoir la tester.
-    - S'il est demandé d'afficher quelque chose, la méthode devra donc renvoyer le quelque chose.
-    - S'il est demandé de calculer quelque chose, la méthode devra renvoyer la valeur calculée.
-    - Bien sûr, il ne faut pas mettre de retour sur un getter ou assimilable !
-- Chaque étape doit être testée par un test automatique afin de la valider.
-
 ## Étapes
 
 - Crée une classe `Forme` avec les propriétés `couleur` et `position`.
