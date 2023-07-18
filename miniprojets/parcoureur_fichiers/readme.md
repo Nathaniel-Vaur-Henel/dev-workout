@@ -1,21 +1,38 @@
-/**
-* <h2> Partie I</h2>
-* <ul>
-*     <li>Le programme prendra en PREMIER argument un chemin absolu ou relatif d'un dossier. AVEC GESTION DES ERREURS.</li>
-*     <li>le programme parcoure tout les dossiers et sous-dossiers et affiche uniquement le nom complet des fichiers, sans le chemin.</li>
-*     <li>Il faut  partir de {@link java.nio.file.Path}</li>
-*     <li>Il ne faut pas utiliser de lib externes mais le FAIRE À LA MAIN EN UTILISANT LA RÉCURSIVITÉ</li>
-* </ul>
-* </p>
-* <h2> Partie II - à faire quand la <i>partie I</i> est terminée</h2>
-* Rajouter des paramètres OPTIONNELS qui peuvent être écrit dans n'importe quel ordre  :
-* <ul>
-*    <li>afficher les dossiers seulement ou afficher les fichiers seulement ou afficher tout le monde (par défaut, n'affiché que le nom nom des fichiers)</li>
-*    <li>gérer une éventuelle profondeur maximale (par défaut aucune)</li>
-*    <li>ajouter un string avant le nom des DOSSIERS (par défaut rien)</li>
-*    <li>afficher le chemin complet ou le uniquement nom (par défaut uniquement le nom)</li>
-*    <li>afficher ou non les fichiers cachés (par défaut, les afficher)</li>
-* </ul>
-* Le comportement par défaut est le comportement si le paramètre n'est pas spécifié.
-* </p>
-*/
+# Parcoureur de fichiers
+
+> - Arguments
+> - Fichiers
+> - Gestion d'erreurs
+> - Algorithmie
+> - Maintenabilité et évolutivité du code
+> - récursivité
+
+## Énoncé
+
+Le but est de faire une parcoureur de fichiers en ligne de commande, un peu l'équivalent de `ls`ou de `dir`.
+
+Chaque point est à faire avant de passer au suivant.
+Chaque point enrichi les précédents et donc il ne faut pas casser les fonctionnalités précédentes qui ne sont pas modifiées.
+
+## Étapes
+
+- Le programme prendra en premier argument un chemin absolu ou relatif d'un dossier.
+- Le programme gérera les erreurs telles que l'absence d'argument, les chemins inexistants ou les chemins pointant sur un fichier.
+- Le programme parcourt tous les dossiers et sous-dossiers du dossier passé en paramètre et affiche uniquement le nom complet des _fichiers_, sans le chemin.
+
+_/!\ Pour que l'exercice ait du sens, ne te sert pas de librairie toutes faites et parcourt les fichiers à la main en utilisant la récursivité._
+
+## Pour aller plus loin
+
+- Rajoute des paramètres _optionnels_ qui peuvent être passé dans _n'importe quel ordre_ et qui permettent :
+    - d'afficher uniquement les dossiers, uniquement les fichiers ou les deux. Comportement par défaut : n'affiche que le nom des fichiers.
+    - de gérer une éventuelle profondeur maximale. Comportement par défaut : aucune profondeur maximale.
+    - d'ajouter un string avant le nom des _dossiers_. Comportement par défaut : aucun préfixe.
+    - d'afficher le chemin complet ou seulement le nom. Comportement par défaut : uniquement le nom du fichier/dossier
+    - d'afficher ou non les fichiers cachés. Comportement par défaut : les afficher.
+    - d'afficher la taille si c'est un fichier.
+    - d'afficher sa date.
+    - d'afficher la description de toutes tes commandes sur un paramètre spécial qui annule donc tous les autres, y compris le fait de parcourir un dossier. Le chemin devient donc optionnel
+- tu peux aller regarder la doc de `ls` ou de `dir` si tu veux d'autres idées.
+
+Le comportement par défaut est le comportement si le paramètre n'est pas spécifié.

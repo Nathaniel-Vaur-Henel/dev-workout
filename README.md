@@ -25,7 +25,7 @@ Le but est plutôt de se concentrer sur des aspects plus complexes comme la gest
 
 - [Calculatrice](miniprojets/calculatrice/readme.md)
 - [Morpion](miniprojets/morpion/readme.md) (en cours d'écriture)
-- [Parcoureur de Fichiers](miniprojets/parcoureur_fichiers/readme.md) (en cours d'écriture)
+- [Parcoureur de Fichiers](miniprojets/parcoureur_fichiers/readme.md)
 - [Perlimpinpin](miniprojets/perlimpinpin/readme.md)
 - [Trouve le nombre](miniprojets/trouve_le_nombre/readme.md) (en cours d'écriture)
 
