@@ -16,6 +16,7 @@ Ce sont de courts et simples exercices qui permettent de se concentrer plutôt s
 - [Liste chainée](exercices/liste-chainee/readme.md) (en cours d'écriture)
 - [Palindrome](exercices/palindrome/readme.md) (en cours d'écriture)
 - [Tri de tableau](exercices/InversionString/readme.md) (en cours d'écriture)       
+- [Zoo](exercices/zoo/readme.md) (en cours d'écriture)       
 
 ## Les mini-projets
 
