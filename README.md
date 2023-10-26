@@ -1,6 +1,6 @@
-# Dév boxing
+# Dév Workout
 Des exercices, des katas, des miniprojets, bref, des trucs pour s'entrainer.  
-Ce repo contient les sources des exercices présentés sur [mon site](https://nathaniel-vaur-henel.github.io) et même plus précisément sur la partie [Dev boxing](https://nathaniel-vaur-henel.github.io/dev-boxing).
+Ce repo contient les sources des exercices présentés sur [mon site](https://nathaniel-vaur-henel.github.io) et même plus précisément sur la partie [Dév Workout](https://nathaniel-vaur-henel.github.io/dev-workout/index).
 
 Tu trouveras toutes les infos sur le site, ici, ce n'est que la partie technique des exercices.
 
@@ -34,7 +34,7 @@ Le but est plutôt de se concentrer sur des aspects plus complexes comme la gest
 Pour les exercices que je te propose, tu peux aller plus loin :
 
 - Ajoute des tests. C'est toujours bien de savoir faire des tests !
-- Si c'est une application en ligne de commande, en fais-en un serveur avec base de données :
+- Si c'est une application en ligne de commande, fais-en un serveur avec base de données :
     - ajoute des endpoints.
     - ajoute une historisation.
     - ajoute une authentification.
