@@ -15,7 +15,7 @@ Tu pourras aussi te familiariser avec les concepts de base de la création et de
 - Crée une classe `Cercle` qui hérite également de la classe `Forme`.
     - Ajoute des propriétés spécifiques au cercle telles que le `rayon`.
     - Ajoute des méthodes pour `calculer la surface`, `le périmètre` et pour `afficher les informations` du cercle.
-- Crée une classe `Dessin` avec une propriété de liste de `Forme`.
+- Crée une classe `Dessin` qui a un champ de type `List` qui contiendra des `Forme`.
     - Ajoute des méthodes pour `ajouter`, `supprimer` et `afficher` des formes dans le dessin.
     - Utilise le polymorphisme pour ajouter des objets de type `Rectangle` et de type `Cercle` dans le dessin.
 
