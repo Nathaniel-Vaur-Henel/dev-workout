@@ -25,7 +25,7 @@ Tu pourras aussi te familiariser avec les concepts de base de la création et de
 
 ## Pour aller plus loin
 
-- Ajoute un `Type d'animal` à tes animaux : `Terrestre`, `Aérien`, Aquatique`.
+- Ajoute un `Type d'animal` à tes animaux : `Terrestre`, `Aérien`, `Aquatique`.
 - Dans la class `Zoo`, la méthode `afficher des animaux` prend désormais un argument de `Type d'animal`, qui peut être null/vide. S'il est vide, la méthode retourne tous les animaux, sinon seulement les animaux du type passé en paramètres.
 - Un animal peu désormais avoir plusieurs types : 
   - Ajoute la classe Grenouille` qui est à la fois `Terrestre` et `Aquatique`. 
