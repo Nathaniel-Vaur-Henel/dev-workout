@@ -28,7 +28,7 @@ Tu pourras aussi te familiariser avec les concepts de base de la création et de
 - Ajoute un `Type d'animal` à tes animaux : `Terrestre`, `Aérien`, `Aquatique`.
 - Dans la class `Zoo`, la méthode `afficher des animaux` prend désormais un argument de `Type d'animal`, qui peut être null/vide. S'il est vide, la méthode retourne tous les animaux, sinon seulement les animaux du type passé en paramètres.
 - Un animal peu désormais avoir plusieurs types : 
-  - Ajoute la classe Grenouille` qui est à la fois `Terrestre` et `Aquatique`. 
+  - Ajoute la classe `Grenouille` qui est à la fois `Terrestre` et `Aquatique`. 
   - Modifie en conséquence la méthode `afficher des animaux` pour qu'elle affiche les grenouilles quand on lui passe en paramètres `Terrestre` ou `Aquatique`.
   - Modifie la méthode `afficher des animaux` pour qu'elle puisse prendre de 0 à N type(s), qui doivent tous être pris en compte lors de l'affiche. Par exemple : Affiche les grenouilles quand on lui passe en paramètres `Terrestre` ou `Aquatique` et affiche les poisons et les grenouilles quand on lui passe `Aquatique`.
 - Supprime les méthodes spécifiques comme `faisAboyerLesChiens()` par une méthode générique qui prend en paramètre la classe d'un `Animal` et appelle la méthode spécifique de l'animal choisi.
