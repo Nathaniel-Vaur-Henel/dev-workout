@@ -29,7 +29,7 @@ Chaque point enrichi les précédents et donc il ne faut pas casser les fonction
 
 ## Pour aller plus loin :
 
-- Permets la personnalisation de la difficulté, en gérant un max à 100 pour une partie `facile`, un max à 10.000 pour une difficulté `moyenne`, un max à 100.000 pour une partie `difficile` et soit inventif pour une partie `impossible`.
+- Permets la personnalisation de la difficulté, en gérant un max à 100 pour une partie `facile`, un max à 10.000 pour une difficulté `moyenne`, un max à 100.000 pour une partie `difficile` et sois inventif pour une partie `impossible`.
 - Demande le nom du joueur et affiche-le lorsque que le programme lui parle.
 - Enregistre les meilleurs scores, dans un fichier par exemple, et affiche-les à la fin de la partie.
 - Afficher, et sauvegarder, le temps d'une partie.
