@@ -1,21 +1,31 @@
 # Dév Workout
-Des exercices, des katas, des miniprojets, bref, des trucs pour s'entrainer.  
-Ce repo contient les sources des exercices présentés sur [mon site](https://nathaniel-vaur-henel.github.io) et même plus précisément sur la partie [Dév Workout](https://nathaniel-vaur-henel.github.io/dev-workout/index).
 
-Tu trouveras toutes les infos sur le site, ici, ce n'est que la partie technique des exercices.
+Bienvenue sur le repo de Dév Workout !
 
-Tous les exercices contiendront un fichier `README.md` contenant l'énoncé et un début de projet [Maven](https://maven.apache.org/) afin de faciliter la vie des Javaïstes.  
-Si tu veux proposer un projet pour un autre langage, n'hésite pas à faire une PR !
+Ce repo contient les sources des exercices et des mini-projets dont je te parle sur mon site dans la partir [Dév Workout](https://nathaniel-vaur-henel.github.io/dev-workout).
 
-## Les exercices 
+Sur mon site, tu trouveras des ressources pour t'améliorer et apprendre au travers des [Devento](https://nathaniel-vaur-henel.github.io/docs) et de mon [Blog](https://nathaniel-vaur-henel.github.io/blog). 
+
+Ici, tu trouveras les énoncés des exercices et des mini-projets. 
+Ils contiennent tous un fichier `README.md` avec l'énoncé et un début de projet [Maven](https://maven.apache.org/) afin de faciliter la vie des Javaïstes.  
+
+> Si tu veux proposer un projet pour un autre langage, n'hésite pas à faire une [PR](https://github.com/Nathaniel-Vaur-Henel/dev-workout/pulls) !
+
+> Si tu veux proposer un exercice, n'hésite pas à faire une [PR](https://github.com/Nathaniel-Vaur-Henel/dev-workout/pulls) !
+
+> Si tu veux proposer une correction, n'hésite pas à faire une [PR](https://github.com/Nathaniel-Vaur-Henel/dev-workout/pulls) !
+
+> Si tu as un commentaire, une question, une suggestion, n'hésite pas à ouvrir une [issue](https://github.com/Nathaniel-Vaur-Henel/dev-workout/issues) !
+
+## Les exercices
 
 Ce sont de courts et simples exercices qui permettent de se concentrer plutôt sur l'algorithmie ou sur un aspect particulier du langage.
 
 - [Formes](exercices/formes/readme.md)
-- [Inversion de String](exercices/tri-tableau/readme.md)
-- [Liste chainée](exercices/liste-chainee/readme.md) (en cours d'écriture)
-- [Palindrome](exercices/palindrome/readme.md) (en cours d'écriture)
-- [Tri de tableau](exercices/InversionString/readme.md) (en cours d'écriture)       
+- [Inversion de String](exercices/inversion-string/readme.md)
+- [Liste chainée](exercices/liste-chainee/readme.md)
+- [Palindrome](exercices/palindrome/readme.md)
+- [Tri de tableau](exercices/tri-tableau/readme.md)
 - [Zoo](exercices/zoo/readme.md)
 
 ## Les mini-projets

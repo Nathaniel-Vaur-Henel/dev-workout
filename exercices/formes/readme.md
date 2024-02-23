@@ -1,9 +1,15 @@
 # Forme
 
-> Héritage & Polymorphisme
+> Ce que tu vas travailler :
+> - Héritage & Polymorphisme
+> - Boucle
+> - Abstraction
+> - Listes d'objets
 
 Cet exercice te permettra de renforcer ta compréhension de l'héritage et du polymorphisme.
 Tu pourras aussi te familiariser avec les concepts de base de la création et de la manipulation de listes d'objets.
+
+> Et oui, cet exercice ressemble à l'exercice [Zoo](../zoo). C'est fait exprès, c'est pour te faire travailler sur l'héritage et la polymorphie sous un autre angle.
 
 ## Étapes
 

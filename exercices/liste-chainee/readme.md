@@ -1,12 +1,14 @@
 # Liste Chainée
 
-> Structure de données
+> Ce que tu vas travailler :
+> - Structure de données
+> - Boucle
 
 Cet exercice te permettra de renforcer ta compréhension des [listes chaînées](https://fr.wikipedia.org/wiki/Liste_cha%C3%AEn%C3%A9e) et des structures de données. 
 
 Il te permettra de créer une structure de données simple et de manipuler des objets.
 
-⚠ N'utilise pas une collection toute faite de ton langage, c'est toi qui vas l'implémenter !
+⚠ _N'utilise pas une collection toute faite de ton langage, c'est toi qui vas l'implémenter !_
 
 ## Étapes
 

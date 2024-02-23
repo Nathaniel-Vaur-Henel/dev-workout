@@ -1,11 +1,15 @@
 # Inversion de String
 
+> Ce que tu vas travailler :
 > - Entrée et sortie standards
 > - String
 > - Boucles
+> - Gestion d'erreur
 
 Cet exercice te permettra de renforcer ta compréhension des String, des entrées et sortie standards et des boucles.
 Il te permettra de créer un algorithme simple avec plusieurs types d'entrée ainsi qu'un debut de gestion d'erreur.
+
+> Et oui, cet exercice ressemble à l'exercice [palindrome](../palindrome). C'est fait exprès, c'est pour te faire travailler sur les chaînes de caractères et les boucles sous un autre angle.
 
 ## Étapes
 
