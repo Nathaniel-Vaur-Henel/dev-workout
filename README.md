@@ -17,7 +17,7 @@ Ils contiennent tous un fichier `README.md` avec l'énoncé et un début de proj
 
 > Si tu as un commentaire, une question, une suggestion, n'hésite pas à ouvrir une [issue](https://github.com/Nathaniel-Vaur-Henel/dev-workout/issues) !
 
-## Les exercices
+## Les exercices ou katas
 
 Ce sont de courts et simples exercices qui permettent de se concentrer plutôt sur l'algorithmie ou sur un aspect particulier du langage.
 
@@ -30,7 +30,7 @@ Ce sont de courts et simples exercices qui permettent de se concentrer plutôt s
 
 ## Les mini-projets
 
-Les mini-projets sont des exercices plus complexes, ayant avoir plusieurs fonctionnalités, une gestion de base de données, etc.
+Les mini-projets sont des exercices plus complexes, pouvant avoir plusieurs fonctionnalités, une gestion de base de données, etc.  
 Le but est plutôt de se concentrer sur des aspects plus complexes comme la gestion et les messages d'erreurs, le parcours utilisateur, identifier et gérer et les cas à la marge, etc.
 
 - [Calculatrice](miniprojets/calculatrice/readme.md)
@@ -41,13 +41,15 @@ Le but est plutôt de se concentrer sur des aspects plus complexes comme la gest
 
 ## Aller plus loin
 
-Pour les exercices que je te propose, tu peux aller plus loin :
+Pour les exercices et mini-projets que je te propose, il y a une série d'idées pour aller plus loin.
+
+Et, dans tous les cas, voilà ce que tu peux aussi faire pour aller plus loin : 
 
 - Ajoute des tests. C'est toujours bien de savoir faire des tests !
 - Si c'est une application en ligne de commande, fais-en un serveur avec base de données :
     - ajoute des endpoints.
+    - gère la pagination et des filtres divers.
     - ajoute une historisation.
     - ajoute une authentification.
-    - gère la pagination et des filtres divers.
 
 Laisse libre cours à ton imagination ou fais un autre exercice !  
