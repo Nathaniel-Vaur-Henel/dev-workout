@@ -10,22 +10,28 @@ Cet exercice te permettra de renforcer ta compréhension des tableaux, des boucl
 
 ⚠ _N'utilise pas une méthode de tri ou de comparaison toute faite de ton langage, c'est toi qui dois l'implémenter !_
 
+## Conseils
+
+- Lis tout l'énoncé avant de commencer afin de bien comprendre ce que tu vas devoir faire.
+- Avance étape par étape.
+- Test chaque étape avant de passer à la suivante.
+- Si tu as cloné le repo, tu peux cocher les étapes que tu as terminées en modifiant le fichier `readme.md` de l'exercice. Cela t'aidera à t'y retrouver.
 
 ## Étapes
 
-- Crée plusieurs tableaux : 
-  - Un tableau de nombres entiers.
-  - Un tableau de nombres entiers avec des nombres en doublon.
-  - Un tableau de nombres décimaux.
-  - Un tableau de chaînes de caractères.
-  - Un tableau de chaînes de caractères ne contenant que des nombres sous formes de chaines de caractères.
-- Crée une méthode pour trier par ordre croissant chacun de tes tableaux.
-- Crée une méthode pour trier par ordre décroissant chacun de tes tableaux.
-- Pour les tableaux de chaines de caractères, selon le langage et la méthode de comparaison utilisée, tu pourrais avoir des résultats... inattendus. Regarde bien si c'est dans l'ordre que tu veux.
+- [ ] Crée plusieurs tableaux : 
+  - [ ] Un tableau de nombres entiers.
+  - [ ] Un tableau de nombres entiers avec des nombres en doublon.
+  - [ ] Un tableau de nombres décimaux.
+  - [ ] Un tableau de chaînes de caractères.
+  - [ ] Un tableau de chaînes de caractères ne contenant que des nombres sous formes de chaines de caractères.
+- [ ] Crée une méthode pour trier par ordre croissant chacun de tes tableaux.
+- [ ] Crée une méthode pour trier par ordre décroissant chacun de tes tableaux.
+- [ ] Pour les tableaux de chaines de caractères, selon le langage et la méthode de comparaison utilisée, tu pourrais avoir des résultats... inattendus. Regarde bien si c'est dans l'ordre que tu veux.
 
 ## Pour aller plus loin
 
-- Crée une méthode pour trier par ordre croissant un tableau de nombres entiers sans utiliser de méthode de tri.
+- [ ] Crée une méthode pour trier par ordre croissant un tableau de nombres entiers sans utiliser de méthode de tri.
 
 ## Données
 
@@ -37,3 +43,5 @@ Voici les tableaux que tu peux utiliser pour cet exercice :
   STRINGS_TO_SORT_UNIQUE = ["4", "éclair", "Éclair", "Eclair", "eclair", "java", "Java", "javascript", "dev", "dév"];
   INTS_STRING_TO_SORT_UNIQUE = ["4", "8", "11", "48", "666"];
 ```
+
+Adapte-les à ton langage !

@@ -17,6 +17,13 @@ Ils contiennent tous un fichier `README.md` avec l'énoncé et un début de proj
 
 > Si tu as un commentaire, une question, une suggestion, n'hésite pas à ouvrir une [issue](https://github.com/Nathaniel-Vaur-Henel/dev-workout/issues) !
 
+## Conseils pour les exercices et les mini-projets
+
+- Lis tout l'énoncé avant de commencer afin de bien comprendre ce que tu vas devoir faire.
+- Avance étape par étape.
+- Test chaque étape avant de passer à la suivante.
+- Si tu as cloné le repo, tu peux cocher les étapes que tu as terminées en modifiant le fichier `readme.md` de l'exercice. Cela t'aidera à t'y retrouver.
+
 ## Les exercices ou katas
 
 Ce sont de courts et simples exercices qui permettent de se concentrer plutôt sur l'algorithmie ou sur un aspect particulier du langage.
