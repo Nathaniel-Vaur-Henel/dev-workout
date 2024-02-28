@@ -12,6 +12,8 @@ Tu vas encapsuler des valeurs dans un objet et les lier entre eux pour former un
 
 ⚠ _N'utilise pas une collection, ou un tableau, toute faite de ton langage, c'est toi qui vas l'implémenter !_
 
+⚠ _Cet exercice est certainement l'un des plus compliqués. Tu dois bien comprendre ce qu'est une liste chaînée avant de te lancer. N'hésite pas à aller voir sur [Wikipédia](https://fr.wikipedia.org/wiki/Liste_cha%C3%AEn%C3%A9e), ou d'autres sites, pour comprendre le fonctionnement des listes chaînées._
+
 ## Conseils
 
 - Lis tout l'énoncé avant de commencer afin de bien comprendre ce que tu vas devoir faire.

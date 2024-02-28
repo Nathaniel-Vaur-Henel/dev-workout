@@ -10,6 +10,7 @@ Cet exercice te permettra de renforcer ta compréhension des String, des entrée
 Il te permettra de créer un algorithme simple avec plusieurs types d'entrée ainsi qu'un debut de gestion d'erreur.
 
 > Et oui, cet exercice ressemble à l'exercice [palindrome](../palindrome). C'est fait exprès, c'est pour te faire travailler sur les chaînes de caractères et les boucles sous un autre angle.
+
 ## Conseils
 
 - Lis tout l'énoncé avant de commencer afin de bien comprendre ce que tu vas devoir faire.
