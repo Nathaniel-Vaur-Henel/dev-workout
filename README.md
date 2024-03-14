@@ -32,6 +32,7 @@ Ce sont de courts et simples exercices qui permettent de se concentrer plutôt s
 - [Inversion de String](exercices/inversion-string/readme.md)
 - [Liste chainée](exercices/liste-chainee/readme.md)
 - [Palindrome](exercices/palindrome/readme.md)
+- [Regex](exercices/regex/readme.md)
 - [Tri de tableau](exercices/tri-tableau/readme.md)
 - [Zoo](exercices/zoo/readme.md)
 
