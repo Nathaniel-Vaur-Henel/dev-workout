@@ -1,3 +1,6 @@
+🛑 Ce projet a été migré vers [Framagit](https://framagit.org/nathvh/dev-workout).
+Ce dépôt est archivé et ne recevra plus de mises à jour.
+
 # Dév Workout
 
 Bienvenue sur le repo de Dév Workout !
